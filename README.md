@@ -1,0 +1,1 @@
+# full-pyramid-of-stars-pattern
